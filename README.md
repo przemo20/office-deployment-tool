@@ -3,12 +3,12 @@ The Office Deployment Tool (ODT) is a command-line tool that you can use to down
 
 ## Download
 ```cmd
-setup.exe /download config.xml
+setup.exe /download odt.xml
 ```
 
 ## Installation
 ```cmd
-setup.exe /configure config.xml
+setup.exe /configure odt.xml
 ```
 
 ## Pack (App-V Package)
